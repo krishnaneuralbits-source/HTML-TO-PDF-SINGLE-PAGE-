@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9fafb;
+  padding: 20px;
+}
+
+textarea {
+  width: 100%;
+  height: 250px;
+  font-family: monospace;
+  margin-bottom: 20px;
+}
+
+button {
+  background: #0f766e;
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 6px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0d5f58;
+}
+
+#preview {
+  background: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin-top: 20px;
+}
